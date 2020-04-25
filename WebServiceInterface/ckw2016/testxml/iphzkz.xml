@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+
+    <Head>
+        <CREATETIME>2016/06/03 09:11:24</CREATETIME>
+        <RESPONSECODE>0000</RESPONSECODE>
+        <RESPONSEINFO></RESPONSEINFO>
+        <DIGITALSIGN name="数字签名"></DIGITALSIGN>
+    </Head>
+    <Data>
+        <HZXXLIST>
+            <HZXX name="不动产控制回执信息">
+                <CXQQDH>A20191017OO200000007</CXQQDH>
+                <WJMC>控制回执文书</WJMC>
+                <WJLX>pdf</WJLX>
+                <WSLB>回执</WSLB>
+                <WSNR></WSNR>
+            </HZXX>
+        </HZXXLIST>
+    </Data>
+</Message>
+

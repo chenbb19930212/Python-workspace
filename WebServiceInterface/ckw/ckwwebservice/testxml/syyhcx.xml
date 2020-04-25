@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zhxxList>
+    <zhxx BDHM="20200312J10200000001" CCXH="1" KHZH="611234567891234567" YE="100000.00" FKSJ="2019/04/04 09:11:24" CCLB="借记卡" ZHZT="正常" KHWD="中国建设银行江苏省分行广州路支行营业部" BZ="156" TXDZ="南京市鼓楼区***" YZBM="210029" LXDH="025-8486589" BEIZ="备注信息111" SFTZ="这是TZ">
+        <djxxList>
+            <djxx CSXH="1" SFBDJ="1" DJJZRQ="2011/09/03" DJJG="南京市中级人民法院" DJWH="[2011]宁002号" DJJE="10000.00"></djxx>
+            <djxx CSXH="2" SFBDJ="0" DJJZRQ="2011/09/03" DJJG="南京市中级人民法院" DJWH="[2011]宁002号" DJJE="10000.00"></djxx>
+            <djxx CSXH="3" SFBDJ="0" DJJZRQ="" DJJG="" DJWH="" DJJE=""></djxx>
+        </djxxList>
+        <wlxxList>
+            <wlxx WLXH="1" ZJLX="转入" ZCKZH="611234567891234567" ZCKZXM="张三" BZ="156" JE="100000.00" JYSJ="2019/03/03 09:11:24"></wlxx>
+            <wlxx WLXH="2" ZJLX="转出" ZCKZH="622121222222222222" ZCKZXM="李四" BZ="156" JE="200000.00" JYSJ="2019/04/03 09:33:24"></wlxx>
+        </wlxxList>
+        <glxxList>
+            <glxx GLXH="1" GLZHLB="信用卡" GLZHHM="611234567891112222" GLZHMC="关联账户管理单位名称"></glxx>
+            <glxx GLXH="2" GLZHLB="储蓄卡" GLZHHM="611234567893334444" GLZHMC="关联账户管理单位名称"></glxx>
+        </glxxList>
+        <jrxxList>
+            <jrxx ZCXH="1" ZCMC="金融资产名称1" ZCLX="金融资产类型1" ZCGLR="资产管理人1" ZCKFJY="是" ZCJYXZ="资产交易限制1" XZXCRQ="2019/01/12" JLDW="股" BZ="156" ZCDWJG="33333.00" SE="100.00" KYSE="100.00" BEIZ="备注信息" CPXSZL="产品销售种类" DQH="地区号" JRCPBH="金融产品编号" LCZH="理财账号" ZJHKZH="资金回款账户" ZYQR="质押权人" GR="托管人" SYR="受益人" CLR="2018/01/22" SHR="2019/01/23" TGZH="托管账号" ZCZJE="3500110.00" KYZCZJE="21000.00"></jrxx>
+            <jrxx ZCXH="2" ZCMC="金融资产名称2" ZCLX="金融资产类型2" ZCGLR="资产管理人2" ZCKFJY="否" ZCJYXZ="资产交易限制2" XZXCRQ="2019/02/21" JLDW="股" BZ="156" ZCDWJG="44444.00" SE="100.00" KYSE="100.00" BEIZ="备注信息" CPXSZL="产品销售种类" DQH="地区号" JRCPBH="金融产品编号" LCZH="理财账号" ZJHKZH="资金回款账户" ZYQR="质押权人" GR="托管人" SYR="受益人" CLR="2018/01/22" SHR="2019/01/23" TGZH="托管账号" ZCZJE="3500110.00" KYZCZJE="21000.00"></jrxx>
+        </jrxxList>
+    </zhxx>
+    <zhxx BDHM="20191224J00100000001" CCXH="2" KHZH="611234567891234568" YE="0" FKSJ="2019/04/04 09:11:24" CCLB="借记卡" ZHZT="正常" KHWD="中国建设银行江苏省分行广州路支行营业部" BZ="156" TXDZ="南京市鼓楼区***" YZBM="210029" LXDH="025-8486589" BEIZ="备注信息111" SFTZ="这是TZ"></zhxx>
+</zhxxList>

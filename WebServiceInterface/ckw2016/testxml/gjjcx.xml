@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<zhxxList>
+  <zhxx BDHM="A20200422E0100000003" CCXH="1" KHZH="611234567891234567" KHWD="中国建设公积金江苏省分行广州路支行营业部" KHRQ="2017/12/12 09:11:24" ZHZT="正常" YE="100.00" BZ="156" YJCE="400.00" SLDQ="公积金设立地区" TXDZ="南京市鼓楼区***" YZBM="210029" LXDH="025-***" DWMC="江苏苏州中银绒业国际集团有限公司" DWDZ="江苏南京市广州路" DWLXR="李某某" LXRZJHM="320100***" FKSJ="2017/12/12 09:11:24" SFYWJQDK="否" SFBFYDJ="是" BEIZ="备注信息">
+    <wlxxList>
+      <wlxx WLXH="1" ZJLX="转出" ZCKZH="622121222222222222" ZCKZXM="李四" BZ="156" JE="100000.00" JYSJ="2018/01/03 09:11:24"/>
+      <wlxx WLXH="2" ZJLX="取出" ZCKZH="" ZCKZXM="" BZ="156" JE="50000.00" JYSJ="2018/01/03 09:11:24"/>
+    </wlxxList>
+    <djxxlist>
+      <djxx DJXH="冻结序号1" DJDW="冻结单位" DJWH="冻结文号" DJKSSJ="冻结开始时间" DJJSSJ="冻结结束时间"/>
+    </djxxlist>
+  </zhxx>
+</zhxxList>

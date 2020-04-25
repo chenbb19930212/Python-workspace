@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zhxxList>
+    <zhxx BDHM="A20200422E0100000002" CCXH="1" KHZH="开户账号1" YE="3000" KYYE="1000" FKSJ="2019/10/16" CCLB="86448201910101245" ZHZT="正常" KHWD="江苏广州路工商支行" BZ="人民币" TXDZ="广州路199号" YZBM="320000" LXDH="13900011001" BEIZ="这是一个备注" SFTZ="">
+        <djxxList>
+            <djxx CSXH="1" SFBDJ="1" DJJZRQ="2018/01/17" DJJG="鼓楼银行" DJWH="(2018)冻结0001" DJJE="1500"></djxx>
+            <djxx CSXH="2" SFBDJ="1" DJJZRQ="2018/01/18" DJJG="江苏银行" DJWH="2018)冻结0002" DJJE="1500"></djxx>
+        </djxxList>
+        <wlxxList>
+            <wlxx WLXH="1" ZJLX="转出" ZCKZH="844866666" ZCKZXM="张三" BZ="人民币" JE="1000" JYSJ="2019/01/15"></wlxx>
+            <wlxx WLXH="2" ZJLX="转入" ZCKZH="844833333" ZCKZXM="李四" BZ="人民币" JE="1000" JYSJ="2019/01/16"></wlxx>
+        </wlxxList>
+        <glxxList>
+            <glxx GLXH="1" GLZHLB="储蓄卡" GLZHHM="844800001" GLZHMC="江苏银行"></glxx>
+            <glxx GLXH="2" GLZHLB="信用卡" GLZHHM="844800002" GLZHMC="南京银行"></glxx>
+        </glxxList>
+    </zhxx>
+</zhxxList>

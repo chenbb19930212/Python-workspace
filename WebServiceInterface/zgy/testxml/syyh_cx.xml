@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zhxxList>
+    <zhxx BDHM="A120190905000000100002" BEIZ="备注信息" BZ="156" CCLB="借记卡" CCXH="1" FKSJ="2019/07/06 09:11:24" GLZJZH="" KHRQ="2019/11/14 09:11:24" KHWD="中国建设银行江苏省分行广州路支行营业部" KHWDDM="" KHZH="611234567891234567" KYYE="1223.5541" LXDH="025-8486589" TXDZ="南京市鼓楼区***" XHRQ="2019/11/15 14:14:24" YE="100.0022" YZBM="210029" ZHZT="正常">
+        <jrxxList>
+            <jrxx BEIZ="备注信息" BZ="156" CLR="2018/01/22" CPXSZL="直销" DQH="110100" JLDW="股" JRCPBH="000539" KYSE="123321.2155" KYZCZJE="33" LCZH="688648112254785" SE="233233.2315" SHR="2018/01/23" SYR="受益人" TGR="托管人" TGZH="托管账号" XZXCRQ="2018/01/21" ZCDWJG="资产单位价格" ZCGLR="资产管理人" ZCJYXZ="资产交易限制" ZCKFJY="是" ZCLX="固定收益类资产" ZCMC="金融资产名称1" ZCXH="1" ZCZJE="55533.2154" ZJHKZH="资金回款账户" ZYQR="质押权人"></jrxx>
+            <jrxx BEIZ="备注信息" BZ="840" CLR="2018/01/22" CPXSZL="代销" DQH="110000" JLDW="股" JRCPBH="100086" KYSE="1100.0120" KYZCZJE="44" LCZH="理财账号2" SE="10230.1189" SHR="2018/01/23" SYR="受益人" TGR="托管人" TGZH="托管账号" XZXCRQ="2018/01/21" ZCDWJG="资产单位价格" ZCGLR="资产管理人" ZCJYXZ="资产交易限制" ZCKFJY="否" ZCLX="流动性资产" ZCMC="金融资产名称2" ZCXH="2" ZCZJE="50.1234" ZJHKZH="资金回款账户2" ZYQR="质押权人2"></jrxx>
+        </jrxxList>
+        <djxxList>
+            <djxx BEIZ="备注信息" CSXH="1" DJJE="10000.5555" DJJG="南京市中级人民法院" DJJZRQ="2011/09/03 09:11:24" DJWH="[2011]宁XXX号" JRCPBH="金融产品编号" ZCXH="1"></djxx>
+            <djxx BEIZ="备注信息" CSXH="2" DJJE="5000.6666" DJJG="南京市鼓楼区人民法院" DJJZRQ="2011/09/03 09:11:24" DJWH="" JRCPBH="金融产品编号2" ZCXH="2"></djxx>
+        </djxxList>
+        <wlxxList>
+            <wlxx BEIZ="备注信息" BZ="156" JE="100000.5678" JYDSLXDH="交易对手联系电话" JYDSTXDZ="交易对手通讯地址" JYDSYHHH="321" JYDSYZBM="交易对手邮政编码" JYDSZJHM="交易对手证件号码" JYDSZJLX="交易对手证件类型" JYLSH="交易流水号" JYSJ="2017/09/03 09:11:24" JYZL="交易种类" WLXH="1" ZCKZH="622121222222222222" ZCKZHKHH="开户行" ZCKZXM="李四" ZJLX="转出"></wlxx>
+            <wlxx BEIZ="备注信息" BZ="156" JE="100000.4453" JYDSLXDH="交易对手联系电话" JYDSTXDZ="交易对手通讯地址" JYDSYHHH="123" JYDSYZBM="交易对手邮政编码" JYDSZJHM="交易对手证件号码" JYDSZJLX="交易对手证件类型" JYLSH="交易流水号" JYSJ="2017/09/03 09:11:24" JYZL="交易种类" WLXH="2" ZCKZH="622121333333333333" ZCKZHKHH="开户行" ZCKZXM="李五" ZJLX="转出"></wlxx>
+        </wlxxList>
+        <qlxxList>
+            <qlxx BEIZ="备注信息" JRCPBH="金融产品编号" QLJE="100000.2333" QLLX="权利类型1" QLR="李四" QLRDZ="权利人地址" QLRLXFS="权利人联系方式" XH="1" ZCXH="1"></qlxx>
+            <qlxx BEIZ="备注信息" JRCPBH="金融产品编号" QLJE="100000.6686" QLLX="权利类型2" QLR="王五" QLRDZ="权利人地址" QLRLXFS="权利人联系方式" XH="2" ZCXH="2"></qlxx>
+        </qlxxList>
+        <glxxList>
+            <glxx BEIZ="备注信息" BZ="156" GLXH="1" GLZHHM="子账户账号" GLZHLB="子账户类别" KYYE="123.3321" YE="23123.2145" ZKHZH="主开户账号"></glxx>
+            <glxx BEIZ="备注信息" BZ="840" GLXH="2" GLZHHM="子账户账号" GLZHLB="子账户类别" KYYE="可用资产数额" YE="100.2214" ZKHZH="主开户账号"></glxx>
+        </glxxList>
+    </zhxx>
+    
+</zhxxList>

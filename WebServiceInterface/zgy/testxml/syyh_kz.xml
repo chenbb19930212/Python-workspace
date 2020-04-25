@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kzxxList>
+    <kzxx BDHM="A120200407000000200001" BEIZ="控制反馈信息备注" CCXH="1"  CSJSRQ="2019/12/25" CSKSRQ="2019/11/12" DJXE="1031.5261" JRCPBH="asdasd" KHZH="611234567891234567" KYYE="123.5271" KZNR="1" KZZT="1" LCZH="" SKJE="555.4678" SKSE="666.2214" WNKZYY="" YE="10000.1193">
+        <djxxList>
+            <djxx BEIZ="备注信息1111" CSXH="1" DJJE="12320.3384" DJJG="南京市中级人民法院" DJJZRQ="2011/09/03 09:11:24" DJWH="[2011]宁XXX号" JRCPBH="金融产品编号"></djxx>
+        </djxxList>
+        <qlxxList>
+            <qlxx BEIZ="备注信息2222" JRCPBH="金融产品编号" QLJE="123100.6789" QLLX="权利类型1" QLR="李四" QLRDZ="权利人地址" QLRLXFS="权利人联系方式" XH="1"></qlxx>
+        </qlxxList>
+    </kzxx>
+    <hzxxList>
+        <hzxx BDHM="A120191221000000200015" WJLX="pdf" WJMC="控制回执通知书" WSLB="回执" WSNR="MTIzDQo=" XH="1"></hzxx>
+    </hzxxList>
+</kzxxList>

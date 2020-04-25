@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Message>
+    <Head>
+        <CREATETIME>2018/06/22 09:11:24</CREATETIME>
+        <RESPONSECODE>0000</RESPONSECODE>
+        <RESPONSEINFO>成功</RESPONSEINFO>
+        <DIGITALSIGN name="数字签名"></DIGITALSIGN>
+    </Head>
+    <Data>
+        <BDCFKLIST>
+            <BDCKZJG name="不动产控制结果">
+                <CXQQDH>A20200423E0200000003</CXQQDH>
+                <RESULT>0000</RESULT>
+                <MESSAGE>成功</MESSAGE>
+                <KZXXLIST>
+                    <KZXX name="控制结果信息">
+                        <BDCQLLX>1</BDCQLLX>
+                        <BDCDYH>130102012023JA00001W000000001</BDCDYH>
+                        <BDCQZH>苏(2019)A市不动产权第000001号</BDCQZH>
+                        <KZZT>1</KZZT>
+                        <CSKSRQ>2018-05-01</CSKSRQ>
+                        <CSJSRQ>2018-06-22</CSJSRQ>
+                        <WNKZYY>无</WNKZYY>
+                        <BEIZ>备注111</BEIZ>
+                        <YWH>ces000001</YWH>
+                        <CFYWH>CFH0000007</CFYWH>
+                    </KZXX>
+                </KZXXLIST>
+            </BDCKZJG>
+        </BDCFKLIST>
+    </Data>
+</Message>

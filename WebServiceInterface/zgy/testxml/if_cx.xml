@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zhxxList>
+    <zhxx BDHM="A120191221000000100001" CCXH="1" ZCMC="康师傅" ZCZJLX="身份证" ZCZJHM="320104197003231558" ZCSJHM="13699988745" KHZH="611234567891234567" CCLB="借记卡" ZHZT="正常" ZCSJ="2011/01/01 11:11:11"  BZ="156" YE="111.1162" KYYE="2222.5561" FKSJ="2019/07/06 09:11:24" TXDZ="南京市鼓楼区***" YZBM="210029" LXDH="025-8486589"  BEIZ="备注信息">
+        <fjxxList>
+            <fjxx FJXH="1" FJXX="附件信息1" FJXXNR="这是附件内容1" ZT="正常" BDSJH="13655478994"  BEIZ="备注信息1"></fjxx>
+            <fjxx FJXH="2" FJXX="附件信息1" FJXXNR="这是附件内容2" ZT="正常" BDSJH="1852147865"  BEIZ="备注信息2"></fjxx>
+        </fjxxList>
+        <glxxList>
+            <glxx GLXH="1" MC="张飞" KH="622848555411555" KLB="储蓄卡" KHH="xxx银行xx分行" BEIZ="备注信息" ></glxx>
+            <glxx GLXH="2" MC="李斯" KH="622848444444444" KLB="信用卡" KHH="中国银南京分行" BEIZ="备注信息2"></glxx>
+        </glxxList>
+    </zhxx>
+    
+</zhxxList>
